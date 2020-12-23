@@ -1,0 +1,2 @@
+# fastjava-core
+fastjava-core
